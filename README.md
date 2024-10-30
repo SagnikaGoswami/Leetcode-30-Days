@@ -1,1 +1,1 @@
-# Two-Sum-II-Leetcode-Problem-167
+# DAY 1 of Leetcode
